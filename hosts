@@ -3,8 +3,8 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201303281313
-;hostsxversion=0.5.2.1
+;version=201303281302
+;hostsxversion=0.6.1.7
 ;author=kwoktree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh
 ;description=Clean Safe and Useful Hosts file.Thanks EveryOne.
 @HostsX SmartDirect
@@ -3020,10 +3020,6 @@ $      下载最新版本的 HostsX。
 127.0.0.1 union.uume.com
 127.0.0.1 jh.uume.com
 #人人网
-<<<<<<< HEAD
-127.0.0.1 admobile.renren.com
-=======
->>>>>>> ad0fa6cf2e63891f99036f92fa9870186fb58e2d
 127.0.0.1 c.renren.com
 127.0.0.1 click.jebe.renren.com
 127.0.0.1 cupid.jebe.renren.com
