@@ -1,9 +1,36 @@
-;version=16:35 2013/6/24
+;version=23:08 2014/3/26
 ;author=KwokTree.OrzFly.jason_jiang.ZephyR
+
+#天天动听部分页面受影响
+tj.ard.ttpod.com
+tj.qd.ttpod.com
+v1.ard.tj.itlily.com
+v1.ard.h.itlily.com
+v1.ard.q.itlily.com
+v1.ard.y.itlily.com
+v1.ard.yy.itlily.com
+$DELETE
+
+#麦当劳电子优惠券图片无法下载
+f.54whr.com
+$DELETE
+
+#导致 MobileQQ 手机客户端无法下载。
+down.myapp.com
+$DELETE
+
+#导致 百度导航 手机版数据无法正常下载。
+bs.baidu.com
+$DELETE
+
+#导致 mininova 的页面显示不正常。
+mnstat.com
+$DELETE
 
 #导致 搜狐客户端无法打开视频的集数。
 access.tv.sohu.com
 hot.vrs.sohu.com
+v.aty.sohu.com
 $DELETE
 
 #导致麦当劳优惠券无法下载。
@@ -28,6 +55,10 @@ $DELETE
 
 #导致风行客户端无法正常获取数据。
 jsonfe.funshion.com
+$DELETE
+
+#导致暴风客户端无法正常正常下载组件。
+ylclick.logger.baofeng.com
 $DELETE
 
 #!导致暴风影音右下角推荐内容无法显示，暴风后台会通过此域名推送广告，不建议用户删除。
@@ -81,7 +112,7 @@ cdn.mmstat.com
 log.mmstat.com
 $DELETE
 
-#导致乐视平板程序FC，无法正常运行！
+#导致乐视平板程序FC无法正常运行！
 dc.letv.com
 $DELETE
 
@@ -343,6 +374,7 @@ iptable.pplive.com
 $DELETE
 
 #导致PPTV客户端/部分页面无法完整显示的问题。
+cdn.staticfile.org
 list.client.pplive.cn
 static1.pplive.cn
 epg.api.pptv.com

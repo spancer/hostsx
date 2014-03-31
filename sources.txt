@@ -1,5 +1,5 @@
-;version=17:45 2013/4/24
-HostsX 屏蔽数据`https://github.com/orzTech/HostsX/raw/master/hosts
+;version=18:39 2014/3/31
+HostsX 屏蔽数据`https://hostsx.googlecode.com/svn/trunk/hosts
 Acrylic DNS Proxy 版 HostsX 广告屏蔽数据`https://github.com/orzTech/HostsX/raw/master/AcrylicHosts.txt
 -
 SmartHosts转向数据`https://smarthosts.googlecode.com/svn/trunk/hosts
