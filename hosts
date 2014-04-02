@@ -3,7 +3,7 @@ more +5 %~fs0>%systemroot%\system32\drivers\etc\hosts
 notepad %windir%\system32\drivers\etc\hosts 
 goto :eof 
 
-;version=201403311103
+;version=20140403 653
 ;Contributors=KwokTree.OrzFly.jason_jiang.Felix Hsu.linjimmy.ZephyR.atmouse.Ehosts.zhqjsh.JayXon
 ;Description=Smart.Clean.Useful.Safe. Hosts files.
 ;Dream=1 and More 
@@ -135,75 +135,6 @@ fe80::1%lo0	localhost
 207.97.227.243 raw.github.com
 204.232.175.78 documentcloud.github.com
 204.232.175.78 pages.github.com
-#Facebook
-173.252.112.28 api-read.facebook.com
-173.252.112.28 api.facebook.com
-173.252.112.28 apps.facebook.com
-173.252.112.28 developers.facebook.com
-173.252.112.28 facebook.com
-173.252.112.28 graph.facebook.com
-173.252.112.28 orcart.facebook.com
-173.252.112.28 www.facebook.com
-173.252.112.28 zh-CN.facebook.com
-173.252.100.25 m.facebook.com
-61.213.189.98 b.static.ak.facebook.com
-61.213.189.120 b.static.ak.fbcdn.net
-66.220.145.63 bigzipfiles.facebook.com
-61.213.189.113 creative.ak.fbcdn.net
-66.152.103.74 external.ak.fbcdn.net
-69.58.188.34 bitly.com
-#Twitter
-199.59.150.141 twitter.com
-199.59.150.142 api.twitter.com
-199.59.148.245 stream.twitter.com
-199.59.148.137 sitestream.twitter.com
-199.59.148.135 betastream.twitter.com
-199.59.148.148 upload.twitter.com
-199.59.149.137 dev.twitter.com
-199.59.149.91 pay.twitter.com
-199.59.148.149 urls-real.api.twitter.com
-199.16.156.81 userstream.twitter.com
-199.16.156.12 support.twitter.com
-208.87.33.151 api.mobilepicture.com
-199.59.148.16 a0.twimg.com
-199.59.148.16 a1.twimg.com
-199.59.148.16 p.twimg.com
-184.169.75.33 si0.twimg.com
-184.169.75.33 si1.twimg.com
-184.169.75.33 si2.twimg.com
-184.169.75.33 si3.twimg.com
-184.169.75.33 si4.twimg.com
-184.169.75.33 si5.twimg.com
-199.16.156.77 image-proxy-origin.twimg.com
-209.17.70.144 oi40.tinypic.com
-209.17.70.143 oi41.tinypic.com
-209.17.70.143 oi42.tinypic.com
-209.17.70.143 oi43.tinypic.com
-209.17.70.143 oi44.tinypic.com
-209.17.70.143 oi45.tinypic.com
-209.17.70.143 oi46.tinypic.com
-209.17.70.143 oi47.tinypic.com
-209.17.70.143 oi48.tinypic.com
-209.17.70.143 oi49.tinypic.com
-209.17.70.143 oi50.tinypic.com
-209.17.70.144 oi51.tinypic.com
-209.17.70.144 oi52.tinypic.com
-209.17.70.144 oi53.tinypic.com
-209.17.70.144 oi54.tinypic.com
-209.17.70.144 oi55.tinypic.com
-209.17.70.144 oi56.tinypic.com
-50.97.168.42 web1.twitpic.com
-50.23.200.233 web10.twitpic.com
-50.97.168.43 web2.twitpic.com
-50.97.168.43 web3.twitpic.com
-50.97.168.40 web4.twitpic.com
-50.97.168.41 web5.twitpic.com
-50.23.200.231 web6.twitpic.com
-50.23.200.232 web7.twitpic.com
-50.23.200.229 web8.twitpic.com
-50.23.200.228 web9.twitpic.com
-174.37.33.172 m1.twitpic.com
-50.23.200.230 twitpic.com
 #Wordpress
 216.151.210.122 botd.wordpress.com
 216.151.210.122 stats.wordpress.com
@@ -227,90 +158,6 @@ fe80::1%lo0	localhost
 93.184.216.119 s.stats.wordpress.com
 93.184.216.119 s.wordpress.com
 93.184.216.119 s.wordpress.org
-#Multiupload
-46.165.221.133 www46.multiupload.com
-46.165.221.134 www47.multiupload.com
-46.165.221.135 www48.multiupload.com
-46.165.221.136 www49.multiupload.com
-46.165.221.137 www50.multiupload.com
-46.165.230.34 www2.multiupload.com
-62.212.73.129 www43.multiupload.com
-62.212.73.130 multiupload.com
-62.212.73.130 www32.multiupload.com
-62.212.73.135 www45.multiupload.com
-62.212.73.70 www12.multiupload.com
-62.212.73.82 www35.multiupload.com
-83.149.126.15 www34.multiupload.com
-85.17.121.102 www25.multiupload.com
-85.17.121.95 www31.multiupload.com
-85.17.122.103 www21.multiupload.com
-85.17.122.29 www33.multiupload.com
-85.17.122.30 www24.multiupload.com
-85.17.122.93 www26.multiupload.com
-85.17.123.20 www22.multiupload.com
-85.17.123.32 www30.multiupload.com
-85.17.183.14 www11.multiupload.com
-85.17.183.14 www14.multiupload.com
-85.17.183.14 www15.multiupload.com
-85.17.183.14 www16.multiupload.com
-85.17.183.14 www17.multiupload.com
-85.17.183.14 www18.multiupload.com
-85.17.183.14 www19.multiupload.com
-85.17.183.14 www20.multiupload.com
-85.17.183.14 www23.multiupload.com
-85.17.183.14 www3.multiupload.com
-85.17.183.14 www4.multiupload.com
-85.17.183.14 www5.multiupload.com
-85.17.183.14 www.multiupload.com
-85.17.190.228 www39.multiupload.com
-85.17.190.235 www41.multiupload.com
-85.17.190.236 www40.multiupload.com
-85.17.190.241 www44.multiupload.com
-85.17.73.228 www38.multiupload.com
-85.17.73.239 www13.multiupload.com
-85.17.84.98 www28.multiupload.com
-95.211.138.135 www36.multiupload.com
-95.211.138.138 www37.multiupload.com
-95.211.138.74 www42.multiupload.com
-95.211.99.1 www9.multiupload.com
-95.211.99.2 www6.multiupload.com
-95.211.99.37 www29.multiupload.com
-95.211.99.3 www7.multiupload.com
-95.211.99.4 www10.multiupload.com
-95.211.99.5 www8.multiupload.com
-#Wiki
-141.101.116.132 wikileaks.org
-141.101.116.132 www.wikileaks.org
-208.80.152.133 mail.wikimedia.org
-208.80.152.149 bugs.wikimedia.org
-208.80.152.149 bugzilla.wikimedia.org
-208.80.152.159 ticket.wikimedia.org
-208.80.152.165 noc.wikimedia.org
-208.80.152.178 irc.wikimedia.org
-208.80.152.185 download.wikimedia.org
-208.80.152.185 dumps.wikimedia.org
-208.80.152.200 wikimedia.org
-208.80.152.201 wikipedia.org
-208.80.152.202 wiktionary.org
-208.80.152.203 wikiquote.org
-208.80.152.204 wikibooks.org
-208.80.152.206 wikinews.org
-208.80.152.208 mediawiki.org
-208.80.152.209 wikimediafoundation.org
-#YouTube
-203.208.46.206 accounts.youtube.com
-203.208.46.206 apiblog.youtube.com
-203.208.46.206 help.youtube.com
-203.208.46.206 i.ytimg.com
-203.208.46.206 i1.ytimg.com
-203.208.46.206 i2.ytimg.com
-203.208.46.206 i3.ytimg.com
-203.208.46.206 i4.ytimg.com
-203.208.46.206 insight.youtube.com
-203.208.46.206 m.youtube.com
-203.208.46.206 s.ytimg.com
-203.208.46.206 www.youtube.com
-203.208.46.206 ytimg.l.google.com
 @Mobile ADPlatform
 #MobPay
 127.0.0.1 epay.keepc.com
@@ -374,6 +221,7 @@ fe80::1%lo0	localhost
 127.0.0.1 oimageb2.ydstatic.com
 127.0.0.1 oimagec5.ydstatic.com
 127.0.0.1 oimageb8.ydstatic.com
+127.0.0.1 shared.ydstatic.com
 #17leyi
 127.0.0.1 media.17leyi.com
 127.0.0.1 images.17leyi.com
@@ -865,6 +713,7 @@ fe80::1%lo0	localhost
 127.0.0.1 po.im.alisoft.com
 127.0.0.1 tj.alisoft.com
 127.0.0.1 download.browser.taobaocdn.com
+127.0.0.1 download.taobaocdn.com
 127.0.0.1 cdndownload.alipay.com
 127.0.0.1 cdn.browser.aliyun.com
 #Ali-3rd
@@ -1037,8 +886,6 @@ fe80::1%lo0	localhost
 127.0.0.1 ch.bmbs.baidu.com
 127.0.0.1 cjhq.baidu.com
 127.0.0.1 cpro.baidu.com
-127.0.0.1 cpro.baidustatic.com
-127.0.0.1 dup.baidustatic.com
 127.0.0.1 dl.client.baidu.com
 127.0.0.1 dl.youqian.baidu.com
 127.0.0.1 dlsw.baidu.com
@@ -1084,7 +931,6 @@ fe80::1%lo0	localhost
 127.0.0.1 tongji.baidu.com
 127.0.0.1 toolbar.baidu.com
 127.0.0.1 tracker.baidu.com
-127.0.0.1 ubmcmm.baidustatic.com
 127.0.0.1 ucstat.baidu.com
 127.0.0.1 ulic.baidu.com
 127.0.0.1 union.baidu.com
@@ -1099,6 +945,11 @@ fe80::1%lo0	localhost
 127.0.0.1 wormhole.baidu.com
 127.0.0.1 youxi.baidu.com
 127.0.0.1 yx.baidu.com
+127.0.0.1 cpro.baidustatic.com
+127.0.0.1 dup.baidustatic.com
+127.0.0.1 ubmcmm.baidustatic.com
+127.0.0.1 mobads.e.shifen.com
+127.0.0.1 update.123juzi.net
 #Beintoo
 127.0.0.1 api.beintoo.com
 127.0.0.1 www.beintoo.com
@@ -1615,6 +1466,11 @@ fe80::1%lo0	localhost
 127.0.0.1 dap.pagechoice.net
 127.0.0.1 sit.pagechoice.net
 127.0.0.1 www.pagechoice.net
+#PPweb
+127.0.0.1 conf1.ppweb.com.cn
+127.0.0.1 info.ppweb.com.cn
+127.0.0.1 realtime.monitor.ppweb.com.cn
+127.0.0.1 server4.hd.ppweb.com.cn
 #Pqqw
 127.0.0.1 lee.pqqw.com
 127.0.0.1 pqqw.com
@@ -1880,36 +1736,20 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.sohu.com
 127.0.0.1 adclick.bai.sohu.com
 127.0.0.1 adnet.sohu.com
-127.0.0.1 aty.tv.sohu.com
-127.0.0.1 m.aty.sohu.com
-127.0.0.1 mmg.aty.sohu.com
-127.0.0.1 atyt.tv.sohu.com
-127.0.0.1 click.hd.sohu.com.cn
 127.0.0.1 corp.sohu.com
-127.0.0.1 count.vrs.sohu.com
 127.0.0.1 cpc.sohu.com
-127.0.0.1 ctr.hd.sohu.com
-127.0.0.1 dev.app.yule.sohu.com
 127.0.0.1 doc.go.sohu.com
 127.0.0.1 hui.sohu.com
 127.0.0.1 images.sohu.com
 127.0.0.1 imp.go.sohu.com
-127.0.0.1 interface.hd.sohu.com
 127.0.0.1 ip.cms.sohu.com
-127.0.0.1 mfiles.sohu.com
-127.0.0.1 p.aty.sohu.com
 127.0.0.1 p4p.so.sohu.com
 127.0.0.1 partner.search.sohu.com
-127.0.0.1 pb.hd.sohu.com
-127.0.0.1 pg.aty.sohu.com
-127.0.0.1 pv.hd.sohu.com
 127.0.0.1 pv.sohu.com
 127.0.0.1 scalink.sohu.com
 127.0.0.1 suvset.sohu.com
 127.0.0.1 txt.go.sohu.com
-127.0.0.1 vm.aty.sohu.com
 127.0.0.1 xls.go.sohu.com
-127.0.0.1 pb.hd.sohu.com.cn
 #Sohu-3rd
 127.0.0.1 imp.ad-plus.cn
 127.0.0.1 sohu.ad-plus.cn
@@ -2607,6 +2447,8 @@ fe80::1%lo0	localhost
 127.0.0.1 vpie.net
 127.0.0.1 tj.u17t.com
 127.0.0.1 tk.217wo.com
+127.0.0.1 p.178ugame.com
+127.0.0.1 pic.778669.com
 #Popups-Include
 127.0.0.1 alhcm.pop.91tiger.com
 127.0.0.1 flash.yx4449.com
@@ -2627,6 +2469,7 @@ fe80::1%lo0	localhost
 127.0.0.1 lc.jiathis.com
 127.0.0.1 t.pohuai.com
 127.0.0.1 cdn.685wo.com
+127.0.0.1 kwcdn.ggmm777.com
 @MobSoft Ads
 #56
 127.0.0.1 acs.agent.v-56.com
@@ -2972,6 +2815,28 @@ fe80::1%lo0	localhost
 127.0.0.1 jebe.xnimg.cn
 127.0.0.1 gg.xiaonei.com
 127.0.0.1 adbc2.ader.mobi
+#SohuTV
+127.0.0.1 aty.tv.sohu.com
+127.0.0.1 atyt.tv.sohu.com
+127.0.0.1 click.hd.sohu.com.cn
+127.0.0.1 click2.hd.sohu.com
+127.0.0.1 count.vrs.sohu.com
+127.0.0.1 ctr.hd.sohu.com
+127.0.0.1 data.vod.itc.cn
+127.0.0.1 dev.app.yule.sohu.com
+127.0.0.1 m.aty.sohu.com
+127.0.0.1 mb.hd.sohu.com.cn
+127.0.0.1 mmg.aty.sohu.com
+127.0.0.1 p.aty.sohu.com
+127.0.0.1 pb.hd.sohu.com
+127.0.0.1 pb.hd.sohu.com.cn
+127.0.0.1 pg.aty.sohu.com
+127.0.0.1 pl.hd.sohu.com
+127.0.0.1 pv.hd.sohu.com
+127.0.0.1 stat.m.tv.sohu.com
+127.0.0.1 upgrade.m.tv.sohu.com
+127.0.0.1 v.aty.sohu.com
+127.0.0.1 vm.aty.sohu.com
 #Skype
 127.0.0.1 mobileads.msn.com
 #Textra
@@ -3271,9 +3136,10 @@ fe80::1%lo0	localhost
 127.0.0.1 adstat.fgsta.com
 127.0.0.1 bc.kuaiche.com
 127.0.0.1 cimg.kuaiche.com
-127.0.0.1 ufile.kuaiche.com
 127.0.0.1 client.kuaiche.com
+127.0.0.1 dl.game.kuaiche.com
 127.0.0.1 imgcache.kuaiche.com
+127.0.0.1 ufile.kuaiche.com
 127.0.0.1 directui.kuaiche.com.showq.net
 127.0.0.1 static.u966.com
 127.0.0.1 m.u966.com
@@ -3360,8 +3226,11 @@ fe80::1%lo0	localhost
 127.0.0.1 update.pctutu.net
 #iCiba
 127.0.0.1 34.goto.www.iciba.com
+127.0.0.1 ciba.count.www.iciba.com
 127.0.0.1 counter.kds.iciba.com
 127.0.0.1 goto.www.iciba.com
+127.0.0.1 popoc2.www.iciba.com
+127.0.0.1 popoi2.www.iciba.com
 127.0.0.1 u.iciba.com
 127.0.0.1 u.sl.iciba.com
 #QQceo
@@ -4334,6 +4203,7 @@ fe80::1%lo0	localhost
 127.0.0.1 lelinks.lenovo.com
 #NewHua
 127.0.0.1 count.newhua.com
+127.0.0.1 stat.newhua.com
 #MyDrivers
 127.0.0.1 images.mydrivers.com
 #xiyuIT
@@ -4718,68 +4588,68 @@ fe80::1%lo0	localhost
 127.0.0.1 ub.dphub.sandai.net
 127.0.0.1 vodsts.sandai.net
 127.0.0.1 wapstat.wap.sandai.net
-127.0.0.1 20140301.biz5.sandai.net 
-127.0.0.1 20140301.logic.cpm.cm.sandai.net 
-127.0.0.1 20140302.biz5.sandai.net 
-127.0.0.1 20140302.logic.cpm.cm.sandai.net 
-127.0.0.1 20140303.biz5.sandai.net 
-127.0.0.1 20140303.logic.cpm.cm.sandai.net 
-127.0.0.1 20140304.biz5.sandai.net 
-127.0.0.1 20140304.logic.cpm.cm.sandai.net 
-127.0.0.1 20140305.biz5.sandai.net 
-127.0.0.1 20140305.logic.cpm.cm.sandai.net 
-127.0.0.1 20140306.biz5.sandai.net 
-127.0.0.1 20140306.logic.cpm.cm.sandai.net 
-127.0.0.1 20140307.biz5.sandai.net 
-127.0.0.1 20140307.logic.cpm.cm.sandai.net 
-127.0.0.1 20140308.biz5.sandai.net 
-127.0.0.1 20140308.logic.cpm.cm.sandai.net 
-127.0.0.1 20140309.biz5.sandai.net 
-127.0.0.1 20140309.logic.cpm.cm.sandai.net 
-127.0.0.1 20140310.biz5.sandai.net 
-127.0.0.1 20140310.logic.cpm.cm.sandai.net 
-127.0.0.1 20140311.biz5.sandai.net 
-127.0.0.1 20140311.logic.cpm.cm.sandai.net 
-127.0.0.1 20140312.biz5.sandai.net 
-127.0.0.1 20140312.logic.cpm.cm.sandai.net 
-127.0.0.1 20140313.biz5.sandai.net 
-127.0.0.1 20140313.logic.cpm.cm.sandai.net 
-127.0.0.1 20140314.biz5.sandai.net 
-127.0.0.1 20140314.logic.cpm.cm.sandai.net 
-127.0.0.1 20140315.biz5.sandai.net 
-127.0.0.1 20140315.logic.cpm.cm.sandai.net 
-127.0.0.1 20140316.biz5.sandai.net 
-127.0.0.1 20140316.logic.cpm.cm.sandai.net 
-127.0.0.1 20140317.biz5.sandai.net 
-127.0.0.1 20140317.logic.cpm.cm.sandai.net 
-127.0.0.1 20140318.biz5.sandai.net 
-127.0.0.1 20140318.logic.cpm.cm.sandai.net 
-127.0.0.1 20140319.biz5.sandai.net 
-127.0.0.1 20140319.logic.cpm.cm.sandai.net 
-127.0.0.1 20140320.biz5.sandai.net 
-127.0.0.1 20140320.logic.cpm.cm.sandai.net 
-127.0.0.1 20140321.biz5.sandai.net 
-127.0.0.1 20140321.logic.cpm.cm.sandai.net 
-127.0.0.1 20140322.biz5.sandai.net 
-127.0.0.1 20140322.logic.cpm.cm.sandai.net 
-127.0.0.1 20140323.biz5.sandai.net 
-127.0.0.1 20140323.logic.cpm.cm.sandai.net 
-127.0.0.1 20140324.biz5.sandai.net 
-127.0.0.1 20140324.logic.cpm.cm.sandai.net 
-127.0.0.1 20140325.biz5.sandai.net 
-127.0.0.1 20140325.logic.cpm.cm.sandai.net 
-127.0.0.1 20140326.biz5.sandai.net 
-127.0.0.1 20140326.logic.cpm.cm.sandai.net 
-127.0.0.1 20140327.biz5.sandai.net 
-127.0.0.1 20140327.logic.cpm.cm.sandai.net 
-127.0.0.1 20140328.biz5.sandai.net 
-127.0.0.1 20140328.logic.cpm.cm.sandai.net 
-127.0.0.1 20140329.biz5.sandai.net 
-127.0.0.1 20140329.logic.cpm.cm.sandai.net 
-127.0.0.1 20140330.biz5.sandai.net 
-127.0.0.1 20140330.logic.cpm.cm.sandai.net 
-127.0.0.1 20140331.biz5.sandai.net 
-127.0.0.1 20140331.logic.cpm.cm.sandai.net 
+127.0.0.1 20140401.biz5.sandai.net 
+127.0.0.1 20140401.logic.cpm.cm.sandai.net 
+127.0.0.1 20140402.biz5.sandai.net 
+127.0.0.1 20140402.logic.cpm.cm.sandai.net 
+127.0.0.1 20140403.biz5.sandai.net 
+127.0.0.1 20140403.logic.cpm.cm.sandai.net 
+127.0.0.1 20140404.biz5.sandai.net 
+127.0.0.1 20140404.logic.cpm.cm.sandai.net 
+127.0.0.1 20140405.biz5.sandai.net 
+127.0.0.1 20140405.logic.cpm.cm.sandai.net 
+127.0.0.1 20140406.biz5.sandai.net 
+127.0.0.1 20140406.logic.cpm.cm.sandai.net 
+127.0.0.1 20140407.biz5.sandai.net 
+127.0.0.1 20140407.logic.cpm.cm.sandai.net 
+127.0.0.1 20140408.biz5.sandai.net 
+127.0.0.1 20140408.logic.cpm.cm.sandai.net 
+127.0.0.1 20140409.biz5.sandai.net 
+127.0.0.1 20140409.logic.cpm.cm.sandai.net 
+127.0.0.1 20140410.biz5.sandai.net 
+127.0.0.1 20140410.logic.cpm.cm.sandai.net 
+127.0.0.1 20140411.biz5.sandai.net 
+127.0.0.1 20140411.logic.cpm.cm.sandai.net 
+127.0.0.1 20140412.biz5.sandai.net 
+127.0.0.1 20140412.logic.cpm.cm.sandai.net 
+127.0.0.1 20140413.biz5.sandai.net 
+127.0.0.1 20140413.logic.cpm.cm.sandai.net 
+127.0.0.1 20140414.biz5.sandai.net 
+127.0.0.1 20140414.logic.cpm.cm.sandai.net 
+127.0.0.1 20140415.biz5.sandai.net 
+127.0.0.1 20140415.logic.cpm.cm.sandai.net 
+127.0.0.1 20140416.biz5.sandai.net 
+127.0.0.1 20140416.logic.cpm.cm.sandai.net 
+127.0.0.1 20140417.biz5.sandai.net 
+127.0.0.1 20140417.logic.cpm.cm.sandai.net 
+127.0.0.1 20140418.biz5.sandai.net 
+127.0.0.1 20140418.logic.cpm.cm.sandai.net 
+127.0.0.1 20140419.biz5.sandai.net 
+127.0.0.1 20140419.logic.cpm.cm.sandai.net 
+127.0.0.1 20140420.biz5.sandai.net 
+127.0.0.1 20140420.logic.cpm.cm.sandai.net 
+127.0.0.1 20140421.biz5.sandai.net 
+127.0.0.1 20140421.logic.cpm.cm.sandai.net 
+127.0.0.1 20140422.biz5.sandai.net 
+127.0.0.1 20140422.logic.cpm.cm.sandai.net 
+127.0.0.1 20140423.biz5.sandai.net 
+127.0.0.1 20140423.logic.cpm.cm.sandai.net 
+127.0.0.1 20140424.biz5.sandai.net 
+127.0.0.1 20140424.logic.cpm.cm.sandai.net 
+127.0.0.1 20140425.biz5.sandai.net 
+127.0.0.1 20140425.logic.cpm.cm.sandai.net 
+127.0.0.1 20140426.biz5.sandai.net 
+127.0.0.1 20140426.logic.cpm.cm.sandai.net 
+127.0.0.1 20140427.biz5.sandai.net 
+127.0.0.1 20140427.logic.cpm.cm.sandai.net 
+127.0.0.1 20140428.biz5.sandai.net 
+127.0.0.1 20140428.logic.cpm.cm.sandai.net 
+127.0.0.1 20140429.biz5.sandai.net 
+127.0.0.1 20140429.logic.cpm.cm.sandai.net 
+127.0.0.1 20140430.biz5.sandai.net 
+127.0.0.1 20140430.logic.cpm.cm.sandai.net 
+127.0.0.1 20140431.biz5.sandai.net 
+127.0.0.1 20140431.logic.cpm.cm.sandai.net 
 @AdUnion-Germany
 #Adscale
 127.0.0.1 ch2.adscale.de
@@ -11822,6 +11692,9 @@ fe80::1%lo0	localhost
 127.0.0.1 xt918.com
 127.0.0.1 w.xt918.com
 127.0.0.1 ww.xt918.com
+#yeshj
+127.0.0.1 a4.yeshj.com
+127.0.0.1 track.yeshj.com
 #Yiqiwin
 127.0.0.1 js.yiqiwin.com
 127.0.0.1 www.yiqiwin.com
@@ -12109,6 +11982,10 @@ fe80::1%lo0	localhost
 127.0.0.1 www.114wangzhan.com
 @Sites Block
 #VirusDown
+127.0.0.1 down.guangsu.cn
+127.0.0.1 www.gswubi.com
+127.0.0.1 wdj1.gswubi.com
+127.0.0.1 wdj2.gswubi.com
 127.0.0.1 down.qxiazai.com
 127.0.0.1 www.ddooo.com
 127.0.0.1 count.ddooo.com
@@ -13117,7 +12994,6 @@ fe80::1%lo0	localhost
 127.0.0.1 a.779.net
 127.0.0.1 a08.insenz.com
 127.0.0.1 a1000.asktang.com
-127.0.0.1 a4.yeshj.com
 127.0.0.1 a6.chancede.com
 127.0.0.1 a8.chancede.com
 127.0.0.1 act.2144.cn
@@ -13853,3 +13729,4 @@ fe80::1%lo0	localhost
 127.0.0.1 cc.grpreach.com
 127.0.0.1 tr.bang5mai.com
 127.0.0.1 g.asdgame88.net
+127.0.0.1 u484012.668559.com
