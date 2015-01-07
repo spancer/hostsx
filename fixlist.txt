@@ -1,5 +1,46 @@
-;version=23:08 2014/3/26
+;version=下午 1:33 2014/10/12 星期日
 ;author=KwokTree.OrzFly.jason_jiang.ZephyR
+
+#导致 美图秀秀素材无法正常加载下载。
+sucai.mobile.dl.meitu.com
+$DELETE
+
+#导致 肯德基优惠券无法正常加载图片。
+res.cocounion.com
+service.cocounion.com
+stats.cocounion.com
+www.cocounion.com
+$DELETE
+
+#导致 QQ好友查找无法正常使用。
+c.isdspeed.qq.com
+pub.idqqimg.com
+$DELETE
+
+#导致 魅族应用商店来自豌豆荚的应用更新无法正常下载。
+www.apk.anzhi.com
+$DELETE
+
+#导致 178图库无法正常显示。
+cimg.178.com
+$DELETE
+
+#导致 搜狐视频的剧集列表无法正常显示。
+pl.hd.sohu.com
+$DELETE
+
+#导致 爱奇艺视频的分辨率拉伸无法正常显示。
+meta.video.qiyi.com
+$DELETE
+
+#导致 迅雷手机版播放器调用资源和手机版视频资源无法正常下载显示。
+m.down.sandai.net
+m.sjzhushou.com
+$DELETE
+
+#导致 第三方条用支付宝服务无法正常下载。
+cdndownload.alipay.com
+$DELETE
 
 #天天动听部分页面受影响
 tj.ard.ttpod.com
@@ -11,8 +52,20 @@ v1.ard.y.itlily.com
 v1.ard.yy.itlily.com
 $DELETE
 
+#影响湖南卫视直播
+t5.wrating.com
+$DELETE
+
+#太平洋系css
+js.3conline.com
+$DELETE
+
 #麦当劳电子优惠券图片无法下载
 f.54whr.com
+$DELETE
+
+#导致 腾讯新闻页面图库无法正常加载。
+ra.gtimg.com
 $DELETE
 
 #导致 MobileQQ 手机客户端无法下载。
@@ -30,7 +83,6 @@ $DELETE
 #导致 搜狐客户端无法打开视频的集数。
 access.tv.sohu.com
 hot.vrs.sohu.com
-v.aty.sohu.com
 $DELETE
 
 #导致麦当劳优惠券无法下载。
@@ -74,16 +126,8 @@ $DELETE
 cdn.sstatic.net
 $DELETE
 
-#导致Amazon部分页面图片无法正常显示。
-g-ecx.images-amazon.com
-$DELETE
-
 #导致DM5页面无法正常显示。
 js.cnc.dm5.com
-$DELETE
-
-#导致Pcpop部分页面无法正常翻页。
-count.pcpop.com
 $DELETE
 
 #导致西陆社区页面无法正常显示。
@@ -225,6 +269,7 @@ mini.group.qq.com
 $DELETE
 
 #导致DZ论坛查找时相关主题内容无法正常显示。
+discuz.gtimg.cn
 cache.soso.com
 $DELETE
 
@@ -253,8 +298,12 @@ $DELETE
 temp.163.com
 $DELETE
 
-#导致网易应用中心软件无法正常下载。
+#导致网易应用中心软件无法正常下载,网易新闻客户端轻松一刻语音无法下载收听。
 analytics.163.com
+$DELETE
+
+#导致有道首页无法正常显示。
+shared.ydstatic.com
 $DELETE
 
 #导致网易首页天气预报图像无法正常显示的问题。
@@ -277,19 +326,17 @@ l.yimg.com
 $DELETE
 
 #导致凤凰直播播放器无法正常加载。
-sc.ifeng.com
 ips.ifeng.com
+mfp.deliver.ifeng.com
+sc.ifeng.com
+sta.play.ifeng.com
+stadig.ifeng.com
 $DELETE
 
 #导致驱动之家评论条数无法正常显示。
 11.mydrivers.com
 $DELETE
 $RemoveFromIEBlockedSites
-
-#导致微软部分产品的下载链接无法跳转和打开。
-view.atdmt.com
-switch.atdmt.com
-$DELETE
 
 #导致 Windows Live Alerts 不能正常工作。
 alerts.live.com

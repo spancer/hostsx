@@ -1,8 +1,11 @@
-;version=18:39 2014/3/31
+;version=10:02 2015/1/7
 HostsX 屏蔽数据`https://hostsx.googlecode.com/svn/trunk/hosts
 Acrylic DNS Proxy 版 HostsX 广告屏蔽数据`https://github.com/orzTech/HostsX/raw/master/AcrylicHosts.txt
 -
-SmartHosts转向数据`https://smarthosts.googlecode.com/svn/trunk/hosts
+heartnn转向数据`http://h.heartnn.eu.org/hosts
+txthinking转向数据`https://raw.githubusercontent.com/txthinking/google-hosts/master/hosts
+imouto转向数据`https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt
+sundys转向数据`https://raw.githubusercontent.com/sundys/android/master/hosts
 IPv6 版智能转向数据`http://ipv6-hosts.googlecode.com/hg/hosts
 -
 恶意网站实验室（MWSL）数据`http://www.mwsl.org.cn/hosts/hosts
